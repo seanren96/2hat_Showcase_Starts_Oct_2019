@@ -14,7 +14,7 @@
     "clsx": "1.0.4",
     "jquery": "3.4.1",
     "node-js": "1.0.0",
-    "node-sass": "4.12.0",
+    "node-sass": "4.14.1",
     "nutritionix": "0.6.1",
     "react": "16.9.0",
     "react-autosuggest": "9.4.3",
